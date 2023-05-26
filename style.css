@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+  }
+  
+  H1{
+     font-size: 3rem;    
+    text-transform: uppercase;    
+  }
+    
+  .MEM{
+    width: 50%;
+    margin-left: 25%;
+    color: white;
+    text-align: center; 
+    font-family: 'Libre Baskerville', serif;
+    margin-top: 100px;
+
+  }
+  .image{
+    border: 10px solid white;
+    width: 100%;
+    
+  }
+
+
+
+
+
+  
+ 
